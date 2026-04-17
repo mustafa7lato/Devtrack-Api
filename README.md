@@ -20,15 +20,12 @@ A simple backend API built with FastAPI for user management and authentication.
 - JWT
 - SQLite
 
----
 
 ## 📸 Screenshots
-(Add your screenshots in assets folder)
 
-Example:
-![Swagger](assets/swagger.png)
+### Swagger UI
+![Swagger](images/swagger.png)
 
----
 
 ## 🚀 How to Run
 
